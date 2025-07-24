@@ -9,7 +9,7 @@ Welcome to my Github profile! I'm a low level software developer passionate abou
 - 📖 Currently a senior majoring in Computer Engineering at the University of California, Los Angeles
 - 🔭 I’m currently working on a large scale simulation in Renode involving multiple custom peripherals and custom FPGA designs  
 - 📚 Learning more about Renode, QEMU, Symex and other Low Level Emulation Platforms
-- 💬 Ask me about low level Emulation Software integration with SoftConsole/Eclipse based IDE's + Visual Studio Code
+- 💬 Ask me about low level Emulation Software integration with SoftConsole/Eclipse based IDE's & Visual Studio Code
 - 🌟 Fun fact: I love hiking, running and playing the guitar
 
 ## Connect with Me

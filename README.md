@@ -12,8 +12,8 @@ Welcome to my Github profile! I'm a low level software developer passionate abou
 
 ## Connect with Me
 
-- [LinkedIn](www.linkedin.com/in/kevin-alvarez-campos)
-- [Personal Website](www.google.com)
+- [LinkedIn](https://www.linkedin.com/in/kevin-alvarez-campos)
+- [Personal Website](https://www.google.com)
 
 ## 💻 Languages and tools I work with
 <a><img width="40" height="40" alt="gcc" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" /></a>

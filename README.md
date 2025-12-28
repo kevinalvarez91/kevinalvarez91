@@ -40,10 +40,10 @@ Welcome to my Github profile! I'm a low level software developer passionate abou
 
 ## My Personal Projects
 
-- [BruinWatch](https://github.com/kevinalvarez91/BruinWatch)
-- [Torti](https://github.com/kevinalvarez91/Torti)
-- [DanceDanceRevolution](https://github.com/kevinalvarez91/CS152A/tree/main/Lab4)
-- [Autonomous Car](https://github.com/kevinalvarez91/ECE-3)
+- [BruinWatch](https://github.com/kevinalvarez91/BruinWatch) (React)
+- [Torti](https://github.com/kevinalvarez91/Torti) (C) 
+- [DanceDanceRevolution](https://github.com/kevinalvarez91/CS152A/tree/main/Lab4) (Verilog)
+- [Autonomous Car](https://github.com/kevinalvarez91/ECE-3) (C/C++)
 
 
 

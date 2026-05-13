@@ -25,6 +25,7 @@ Welcome to my Github profile! I'm a low level software developer passionate abou
 
 ## My Personal Projects
 
+- [StrideIQ](https://github.com/kevinalvarez91/StrideIQ) (Swift, C, Python)
 - [BruinWatch](https://github.com/kevinalvarez91/BruinWatch) (React)
 - [Torti](https://github.com/kevinalvarez91/Torti) (C) 
 - [DanceDanceRevolution](https://github.com/kevinalvarez91/CS152A/tree/main/Lab4) (Verilog)
